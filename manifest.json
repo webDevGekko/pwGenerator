@@ -1,0 +1,11 @@
+{
+    "name": "Password Generator",
+    "version": "1.0.0",
+    "description": "generate your own secure Passwort",
+    "manifest_version": 1,
+    "author": "Niklas Riebesell",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "PasswortGenerator"
+    }
+}

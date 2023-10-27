@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 62,5%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 400px;
+    height: 150px;
+    background-color:  rgb(44,55, 56);
+}
+
+p, h1{
+    color: rgb(165, 176, 179);
+}
+
+button{
+    background-color: rgb(84,91, 76);
+    color: rgb(165, 176, 179);
+}
+
+#wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
